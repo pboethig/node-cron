@@ -1,0 +1,27 @@
+{
+  "name": "sheduler",
+  "version": "1.0.0",
+  "description": "a simple sheduler",
+  "main": "index.js",
+  "dependencies": {
+    "node-cron": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pboethig/node-cron.git"
+  },
+  "keywords": [
+    "cron",
+    "node"
+  ],
+  "author": "pboethig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pboethig/node-cron/issues"
+  },
+  "homepage": "https://github.com/pboethig/node-cron#readme"
+}
